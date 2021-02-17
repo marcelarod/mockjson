@@ -1,36 +1,12 @@
 {
   "posts": [
-    {
-      "id":1,
-      "title":"Celular",
-      "description": "Vencida",
-      "date":"20/10/2020",
-    },
-    {
-      "id": 2,
-      "title":"Celular",
-      "description": "Vencida",
-      "date":"20/10/2020",
-    },
-    {
-      "id": 3,
-      "title":"Celular",
-      "description": "Vencida",
-      "date":"20/10/2020",
-    }
+    {"id":1,"title":"Celular","description": "Vencida","date":"20/10/2020"},
+    {"id": 2,"title":"Celular","description": "Vencida","date":"20/10/2020"},
+    {"id": 3,"title":"Celular","description": "Vencida","date":"20/10/2020"}
   ],
   "comments": [
-    {
-      "id": 1,
-      "body": "Seu pagamento leva até 72 horas para ser processado",
-    },
-    {
-      "id": 2,
-      "body": "Seu pagamento leva até 72 horas para ser processado",
-    },
-    {
-     "id": 3,
-     "body": "Seu pagamento leva até 72 horas para ser processado",
-    }
+    {"id": 1,"body": "Seu pagamento leva até 72 horas para ser processado"},
+    {"id": 2,"body": "Seu pagamento leva até 72 horas para ser processado"},
+    {"id": 3,"body": "Seu pagamento leva até 72 horas para ser processado"}
   ]
 }
