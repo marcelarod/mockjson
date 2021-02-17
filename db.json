@@ -5,32 +5,32 @@
       "title":"Celular",
       "description": "Vencida",
       "date":"20/10/2020",
-      "obs":"Seu pagamento leva até 72 horas para ser processado"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+      "title":"Celular",
+      "description": "Vencida",
+      "date":"20/10/2020",
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "description": "this is teste 3"
+      "title":"Celular",
+      "description": "Vencida",
+      "date":"20/10/2020",
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "body": "Seu pagamento leva até 72 horas para ser processado",
     },
     {
       "id": 2,
-      "body": "comment 2",
-      "postId": 1
+      "body": "Seu pagamento leva até 72 horas para ser processado",
+    },
+    {
+     "id": 3,
+     "body": "Seu pagamento leva até 72 horas para ser processado",
     }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+  ]
 }
