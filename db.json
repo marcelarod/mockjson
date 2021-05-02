@@ -5,6 +5,7 @@
            "title":"C# primeiros passos: Lógica de Programação e Algoritmos",
            "img": "https://miro.medium.com/max/2728/1*7I6oONv2fGLQJcNEFA4QSw.png",
            "body": "C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java. O código fonte é compilado para Common Intermediate Language (CIL) que é interpretado pela máquina virtual Common Language Runtime (CLR). C# é uma das linguagens projetadas para funcionar na Common Language Infrastructure da plataforma .NET Framework."
+          }
           {"id": 2,
             "title":"Curso Completo do Desenvolvedor NodeJS e MongoDB",
             "img":"https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg"
